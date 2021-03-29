@@ -1,0 +1,12 @@
+aries#aries.png#previsão para áries
+touro#touro.png#previsão para touro
+gemeos#gemeos.png#previsão para gemeos
+cancer#cancer.png#previsão para cancer
+leao#leao.png#previsão para leao
+virgem#virgem.png#previsão para virgem
+libra#libra.png#previsão para libra
+escorpiao#escorpiao.png#previsão para escorpiao
+sagitario#sagitario.png#previsão para sagitario
+capricornio#capricornio.png#previsão para capricornio
+aquario#aquario.png#previsão para aquario
+peixes#peixes.png#previsão para peixes
